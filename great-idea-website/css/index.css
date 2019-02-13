@@ -64,3 +64,50 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.affectAll {
+	width: 1700px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+header nav {
+	height: 200px;
+	display: block;
+	padding: 0px 200px;
+	text-align: center;
+}
+
+a, img {
+	padding: 40px;
+}
+
+a {
+	font-size: 25px;
+	padding: 0px 40px 50px 40px;
+}
+
+header.TipTopOfPage {
+	padding: 20px;
+	margin: 30px ; 
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
